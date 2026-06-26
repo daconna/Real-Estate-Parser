@@ -1,0 +1,10 @@
+"""Log messages"""
+
+LOAD_CONFIG_OK = "Configuration loaded successfully"
+LOAD_PARSER_CONFIG_OK = "Parser configuration loaded"
+START_PARSING = "Starting parser"
+PARSING_DISTRICT = "Parsing district: {district}"
+PARSING_COMPLETED = "Parsing completed successfully"
+FETCH_PAGE = "Fetching page: {url}"
+PARSE_LISTINGS = "Parsing {count} listings"
+SAVE_TO_DB = "Saving {count} apartments to database"

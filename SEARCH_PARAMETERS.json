@@ -1,0 +1,44 @@
+{
+  "city": 2,
+  "city_name": "astana",
+  "districts": [
+    {
+      "name": "nura",
+      "display_name": "Нура",
+      "url_slug": "astana-nura"
+    },
+    {
+      "name": "esilskij",
+      "display_name": "Есильский",
+      "url_slug": "astana-esilskij"
+    },
+    {
+      "name": "almatinskij",
+      "display_name": "Алматы",
+      "url_slug": "astana-almatinskij"
+    },
+    {
+      "name": "saryarkinskij",
+      "display_name": "Сарыарка",
+      "url_slug": "astana-saryarkinskij"
+    },
+    {
+      "name": "bajkonur",
+      "display_name": "Байконур",
+      "url_slug": "r-n-bajkonur"
+    },
+    {
+      "name": "saraishyk",
+      "display_name": "Сарайшык",
+      "url_slug": "astana-saraishyk"
+    }
+  ],
+  "search_params": {
+    "rooms": [1, 2, 3],
+    "price_from": 5000000,
+    "price_to": 100000000,
+    "has_photo": true,
+    "furniture": null,
+    "owner": null
+  }
+}
